@@ -11,7 +11,7 @@
     <groupId>com.gt.miumg</groupId>
     <artifactId>sistemas.operativos</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>microservicio-documento</name>
     <description>Demo project for Spring Boot</description>
     <properties>
